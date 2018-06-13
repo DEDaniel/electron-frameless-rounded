@@ -1,0 +1,22 @@
+html, 
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    transform: scale(0.9);
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.container {
+    height: 100%;
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    margin: 0;
+}
